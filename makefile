@@ -1,4 +1,4 @@
-main:	main.cpp
-	g++ -o main main.cpp
+checksum:	main.cpp
+	g++ -o checksum main.cpp
 clean:
-	rm -f main
+	rm -f checksum
