@@ -1,5 +1,7 @@
 # Checksum Checker
 
+![icon](https://cloud-7n84z8lfd-hack-club-bot.vercel.app/0image.png)
+
 A simple utiity that takes two arguments:
 
 1. The file to hash 
