@@ -11,6 +11,12 @@ string convertToString(char *a);
 
 int main(int argc, char **argv) {
 
+  if (argc != 3) {
+    cout << "invalid format\n";
+
+    return 0;
+  }
+
   const string taget_file_path = argv[2];
   ifstream target_hash_file(taget_file_path);
   istreambuf_iterator<char> it(target_hash_file), end;
