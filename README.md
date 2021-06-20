@@ -1,4 +1,4 @@
-# Checksum Checker
+# checksum
 
 <img alt="icon" src="https://cloud-7n84z8lfd-hack-club-bot.vercel.app/0image.png" width="200px" />
 
