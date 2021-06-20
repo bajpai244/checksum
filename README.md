@@ -1,6 +1,6 @@
 # Checksum Checker
 
-![icon](https://cloud-7n84z8lfd-hack-club-bot.vercel.app/0image.png)
+<img alt="icon" src="https://cloud-7n84z8lfd-hack-club-bot.vercel.app/0image.png" size="256px" />
 
 A simple utiity that takes two arguments:
 
